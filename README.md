@@ -1,9 +1,4 @@
----
-language: javascript
-tags: javascript, beginner, basics, variables, data types, operators, conditionals
-type: lecture
-resources: 0
----
+
 
 ## JavaScript Fundamentals ~ 49min
 
